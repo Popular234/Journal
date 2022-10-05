@@ -30,4 +30,10 @@
   <dt> Abstraction:</dt>
   
   <dd> a fundamental concept in computer science and software development.[4] The process of abstraction can also be referred to as modeling and is closely related to the concepts of theory and design.</dd>
+  <dt> Reset StyleSheet:</dt>
+  
+  <dd>A reset stylesheet is a collection of CSS rules used to clear the browser's default formatting of HTML elements, removing potential inconsistencies between different browsers.</dd>
+  <dt> User Agent Styles:</dt>
+  
+  <dd>User-agent, or browsers, have basic style sheets that give default styles to any document. These style sheets are named user-agent stylesheets. Most browsers use actual stylesheets for this purpose, while others simulate them in code. The end result is the same.</dd>
 </dl>
