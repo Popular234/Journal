@@ -36,4 +36,31 @@
   <dt> User Agent Styles:</dt>
   
   <dd>User-agent, or browsers, have basic style sheets that give default styles to any document. These style sheets are named user-agent stylesheets. Most browsers use actual stylesheets for this purpose, while others simulate them in code. The end result is the same.</dd>
+  <dt> JavaScript:</dt>
+  
+  <dd> JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.</dd>
+  <dt> Conditionals:</dt>
+  
+  <dd> Conditionals are programming language commands for handling decisions. Specifically, conditionals perform different computations or actions depending on whether a programmer-defined boolean condition evaluates to true or false. In terms of control flow, the decision is always achieved by selectively altering the control flow based on some condition</dd>
+  <dt> Operators:</dt>
+  
+  <dd> In mathematics and computer programming, an operator is a character that represents a specific mathematical or logical action or process. For instance, "x" is an arithmetic operator that indicates multiplication, while "&&" is a logical operator representing the logical AND function in programming.</dd>
+  <dt> Variable:</dt>
+  
+  <dd> In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value; or in simpler terms, a variable is a named container for a particular set of bits or type of data.</dd>
+  <dt> Assignment operator:</dt>
+  
+  <dd> In computer programming, an assignment statement sets and/or re-sets the value stored in the storage location denoted by a variable name; in other words, it copies a value into the variable. In most imperative programming languages, the assignment statement is a fundamental construct.</dd>
+  <dt> String:</dt>
+  
+  <dd> In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.</dd>
+  <dt> String literal:</dt>
+  
+  <dd> A string literal or anonymous string is a string value in the source code of a computer program. In modern programming languages usually use a quoted sequence of characters, formally "bracketed delimiters", as in x = "foo" .</dd>
+  <dt> Number literal:</dt>
+  
+  <dd> Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.</dd>
+  <dt> Fucntion:</dt>
+  
+  <dd> A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs a particular task.</dd>
 </dl>
