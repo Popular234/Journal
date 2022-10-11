@@ -53,7 +53,7 @@
   <dd> In computer programming, an assignment statement sets and/or re-sets the value stored in the storage location denoted by a variable name; in other words, it copies a value into the variable. In most imperative programming languages, the assignment statement is a fundamental construct.</dd>
   <dt> String:</dt>
   
-  <dd> In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable.</dd>
+  <dd> In computer programming, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. Always represented in text form.</dd>
   <dt> String literal:</dt>
   
   <dd> A string literal or anonymous string is a string value in the source code of a computer program. In modern programming languages usually use a quoted sequence of characters, formally "bracketed delimiters", as in x = "foo" .</dd>
