@@ -63,4 +63,10 @@
   <dt> Fucntion:</dt>
   
   <dd> A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs a particular task.</dd>
+  <dt> Logical Operators:</dt>
+  
+  <dd> A logical operator is a symbol or word used to connect two or more expressions such that the value of the compound expression produced depends only on that of the original expressions and on the meaning of the operator. Common logical operators include AND, OR, and NOT.</dd>
+  <dt> Arithmetic Operators:</dt>
+  
+  <dd> The Java programming language supports various arithmetic operators for all floating-point and integer numbers. These operators are + (addition), - (subtraction), * (multiplication), / (division), and % (modulo).</dd>
 </dl>
