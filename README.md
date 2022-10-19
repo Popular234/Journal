@@ -60,7 +60,7 @@
   <dt> Number literal:</dt>
   
   <dd> Literals or constants are the values we write in a conventional form whose value is obvious. In contrast to variables, literals (123, 4.3, "hi") do not change in value. These are also called explicit constants or manifest constants.</dd>
-  <dt> Fucntion:</dt>
+  <dt> Function:</dt>
   
   <dd> A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times. Functions enable programmers to break down or decompose a problem into smaller chunks, each of which performs a particular task.</dd>
   <dt> Logical Operators:</dt>
