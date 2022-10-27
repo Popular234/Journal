@@ -75,4 +75,7 @@
   <dt> For Loops:</dt>
   
   <dd> A for loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. A for loop has two parts: a header specifying the iteration, and a body which is executed once per iteration.</dd>
+  <dt> Loops:</dt>
+  
+  <dd> Loops a specific block of code until a condition is met</dd>
 </dl>
