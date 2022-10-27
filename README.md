@@ -69,4 +69,10 @@
   <dt> Arithmetic Operators:</dt>
   
   <dd> The Java programming language supports various arithmetic operators for all floating-point and integer numbers. These operators are + (addition), - (subtraction), * (multiplication), / (division), and % (modulo).</dd>
+  <dt> While Loops:</dt>
+  
+  <dd> In most computer programming languages, a while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement.</dd>
+  <dt> For Loops:</dt>
+  
+  <dd> A for loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. A for loop has two parts: a header specifying the iteration, and a body which is executed once per iteration.</dd>
 </dl>
